@@ -1,7 +1,8 @@
 # MSI-GL62MVR-macOS-Clover
 经测试可用的CLOVER引导程序，不是我弄出来的，在GL62MVR 7RFX上测试半年工作正常无硬件损坏。<br>
 可以让你的电脑顺利引导三大主流操作系统:Windows系列/macOS/Linux系列<br>
-注意：此过程及其繁杂，一般人折腾不来（我是为了避免购买昂贵性能又差的macbook）,我也没有条件再次录制整个过程。
+注意：此过程及其繁杂，一般人折腾不来（我是为了避免购买昂贵性能又差的macbook）,我也没有条件再次录制整个过程。<br>
+适合折腾人群：全栈工程师
 
 相关视频：https://www.bilibili.com/video/av35630371/
 ![alt screenshot](https://raw.githubusercontent.com/Attect/MSI-GL62MVR-macOS-Clover/master/CLOVER/misc/screenshot3.png)
